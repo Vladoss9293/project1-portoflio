@@ -21,7 +21,7 @@ import Dota2Home from './routes/dota2/Dota2Home.jsx';
  
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/project1-portoflio/',
     element: <Root />,
     errorElement: <ErrorPage404 />,
   },
